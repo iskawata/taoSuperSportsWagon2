@@ -19,7 +19,7 @@
  * 
  */
 
-namespace oat\taoSuperSportsWagon2\controller;
+namespace iskawata\taoSuperSportsWagon2\controller;
 
 /**
  * Sample controller

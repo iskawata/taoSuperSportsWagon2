@@ -41,7 +41,7 @@ return array(
     'uninstall' => array(
     ),
     'routes' => array(
-        '/taoSuperSportsWagon2' => 'oat\\taoSuperSportsWagon2\\controller'
+        '/taoSuperSportsWagon2' => 'iskawata\\taoSuperSportsWagon2\\controller'
     ),    
     'constants' => array(
         # views directory
