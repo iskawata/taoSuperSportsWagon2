@@ -1,0 +1,31 @@
+{
+
+    "name": "oat/taoSuperSportsWagon2",
+    "description" : "こっちを使う",
+    "type" : "tao-extension",
+    "authors" : [
+        {
+        "name": "Open Assessment Technologies SA"
+        }
+    ],
+    "keywords" : [
+        "tao",
+        "computer-based-assessment"
+    ],
+    "homepage" : "http://www.taotesting.com",
+    "license" : [
+        "GPL-2.0"
+    ],
+    "extra" : {
+        "tao-extension-name" : "taoSuperSportsWagon2"
+    },
+    "minimum-stability" : "dev",
+    "require": {
+        "oat-sa/oatbox-extension-installer": "dev-master"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "oat\\taoSuperSportsWagon2\\" : ""
+        }
+    } 
+}

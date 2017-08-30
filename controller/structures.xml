@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE structures SYSTEM "../doc/structures.dtd">
+<structures>
+	<structure id="taoSuperSportsWagon2_main" name="Super Sports Wagon 2" level="15" group="main">
+		<description />
+		<sections>
+			<section id="taoSuperSportsWagon2_main" name="Super Sports Wagon 2" url="/taoSuperSportsWagon2/TaoSuperSportsWagon2/index" />
+			<section id="taoSuperSportsWagon2_other" name="Template" url="/taoSuperSportsWagon2/TaoSuperSportsWagon2/templateExample" />
+		</sections>
+	</structure>
+</structures>
