@@ -1,6 +1,6 @@
 {
 
-    "name": "oat/taoSuperSportsWagon2",
+    "name": "iskawata/taoSuperSportsWagon2",
     "description" : "こっちを使う",
     "type" : "tao-extension",
     "authors" : [
@@ -25,7 +25,7 @@
     },
     "autoload" : {
         "psr-4" : {
-            "oat\\taoSuperSportsWagon2\\" : ""
+            "iskawata\\taoSuperSportsWagon2\\" : ""
         }
     } 
 }
